@@ -1,0 +1,14 @@
+C:\Users\RRaczak\source\repos\GC_Blockbuster\GC_Blockbuster\bin\Debug\netcoreapp3.1\GC_Blockbuster.exe
+C:\Users\RRaczak\source\repos\GC_Blockbuster\GC_Blockbuster\bin\Debug\netcoreapp3.1\GC_Blockbuster.deps.json
+C:\Users\RRaczak\source\repos\GC_Blockbuster\GC_Blockbuster\bin\Debug\netcoreapp3.1\GC_Blockbuster.runtimeconfig.json
+C:\Users\RRaczak\source\repos\GC_Blockbuster\GC_Blockbuster\bin\Debug\netcoreapp3.1\GC_Blockbuster.runtimeconfig.dev.json
+C:\Users\RRaczak\source\repos\GC_Blockbuster\GC_Blockbuster\bin\Debug\netcoreapp3.1\GC_Blockbuster.dll
+C:\Users\RRaczak\source\repos\GC_Blockbuster\GC_Blockbuster\bin\Debug\netcoreapp3.1\GC_Blockbuster.pdb
+C:\Users\RRaczak\source\repos\GC_Blockbuster\GC_Blockbuster\obj\Debug\netcoreapp3.1\GC_Blockbuster.csproj.AssemblyReference.cache
+C:\Users\RRaczak\source\repos\GC_Blockbuster\GC_Blockbuster\obj\Debug\netcoreapp3.1\GC_Blockbuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RRaczak\source\repos\GC_Blockbuster\GC_Blockbuster\obj\Debug\netcoreapp3.1\GC_Blockbuster.AssemblyInfoInputs.cache
+C:\Users\RRaczak\source\repos\GC_Blockbuster\GC_Blockbuster\obj\Debug\netcoreapp3.1\GC_Blockbuster.AssemblyInfo.cs
+C:\Users\RRaczak\source\repos\GC_Blockbuster\GC_Blockbuster\obj\Debug\netcoreapp3.1\GC_Blockbuster.csproj.CoreCompileInputs.cache
+C:\Users\RRaczak\source\repos\GC_Blockbuster\GC_Blockbuster\obj\Debug\netcoreapp3.1\GC_Blockbuster.dll
+C:\Users\RRaczak\source\repos\GC_Blockbuster\GC_Blockbuster\obj\Debug\netcoreapp3.1\GC_Blockbuster.pdb
+C:\Users\RRaczak\source\repos\GC_Blockbuster\GC_Blockbuster\obj\Debug\netcoreapp3.1\GC_Blockbuster.genruntimeconfig.cache
